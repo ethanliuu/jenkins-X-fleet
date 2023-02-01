@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "jx.deliver1.authing-inc.co"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
